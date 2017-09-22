@@ -12,3 +12,28 @@
     align-items: center;
 }
 
+.GBtn{
+    border: solid black 1px;
+    width: 80px;
+    height: 80px;
+    background: white;
+    font-family: Arial;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.NewBtn{
+    border: solid black 1px;
+    background: white;
+    font-family: Arial;
+    font-size: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.Title{
+    font-family: Arial;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
