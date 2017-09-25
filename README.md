@@ -4,6 +4,8 @@
 
 This is a simple a Tic Tac Toe game that can be played by two people.
 
+[Demo](http://tictactoewithvue.surge.sh/)
+
 ## Motivation
 
 This simple web page was created to show off what Vue can do. Vue, as a progressive Framework, can
